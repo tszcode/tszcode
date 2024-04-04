@@ -1,3 +1,2 @@
-Hello I'm tsz 
-I have many skills and development is one of many
-if you have any questions dm me on discord @tszdev
+I'm a 16 year old developer from the UK
+I mainly write in C#, C++, And abit of JS
