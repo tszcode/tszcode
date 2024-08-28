@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Athena (OGFN Project)<br>I’m currently learning C#, GoLang + Refining my skills in other languages<br>Feel free to ask me about How I got into coding, what advice I would give or if you want me to teach what I know so far<br><br>How to reach me discord: tszdev<br><br>Fun fact I have Autism and ADHD <br><br>
+I’m currently working on Athena (OGFN Project)<br>I’m currently learning C#, GoLang + Refining my skills in other languages<br>Feel free to ask me about How I got into coding, what advice I would give or if you want me to teach what I know so far<br><br>How to reach me discord: tszdev<br><br>Fun fact I have ## Autism and ADHD <br><br>
 
 
 ## 🌐 Socials:
